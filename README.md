@@ -1,2 +1,2 @@
 # MyFirstProject
- This to get faimiliar with the GitHub
+ This to is get faimiliar with the GitHub
